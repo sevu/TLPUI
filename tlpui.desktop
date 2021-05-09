@@ -12,3 +12,4 @@ Comment[de_DE]=Tlp UI mit Gtk
 Comment[pt_BR]=Tlp UI com gtk
 Comment[zh_CN]=TLP 的 Gtk 设置界面
 Categories=Settings;HardwareSettings;GTK;
+Keywords=GUI;
